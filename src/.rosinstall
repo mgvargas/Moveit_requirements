@@ -1,0 +1,7 @@
+- git:
+    local-name: moveit
+    uri: https://github.com/ros-planning/moveit_ikfast.git
+- git:
+    local-name: openrave
+    uri: https://github.com/rdiankov/openrave.git
+    version: latest_stable
